@@ -1,0 +1,36 @@
+body {
+    margin-left: 20px;
+    background: linear-gradient(#e0f7ff, #cccfed);
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1, h2, h3 {
+    color: darkgreen;
+}
+.titleText {
+    font-size: 40px;
+    font-style: Courier, Serif;
+}
+.titleDesc {
+    font-size: 30px;
+}
+.img {
+    margin-top: 20px;
+    margin-left: 40px
+}
+hr {
+    background-color: blue;
+    height: 3px;
+}
+ul li {
+    color: red;
+    background: linear-gradient(#f7f7fa, #cccfed);
+}
+a {
+    color: rgb(79, 21, 186);
+    text-decoration: none;
+    cursor: pointer;
+    transition: .3s;
+}
+a:hover {
+    color: rgb(255, 0, 0);
+}
