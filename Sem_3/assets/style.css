@@ -1,0 +1,63 @@
+h1, h2 {
+    color: green;
+    font-size: 30px;
+    margin: 0;
+    text-align: center;
+}
+p {
+    margin: 0;
+}
+.title {
+    color: red;
+    font-size: 45px;
+}
+.boxWrapper {
+    margin-top: 20px;
+    display: flex;
+}
+.box {
+    border: 2px dashed greenyellow;
+    width: 200px;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.image {
+    display: flex;
+    justify-content: center;
+    width: 300px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.active {
+    color:blue;
+    font-size: 50px; 
+}
+.ice {
+    color: brown;
+    margin-top: 30px;
+}
+button {
+    width: 250px;
+    height: 40px;
+    margin: 0px;
+    margin-left: 65px;
+      
+}
+/* #el1 {
+    color: beige;
+} */
+a:hover {
+    color: rgb(255, 0, 0);
+}
+.description {
+    color: coral;
+    font-size: 45px;
+}
+.listColor{
+    color: aqua;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 12px;
+}
